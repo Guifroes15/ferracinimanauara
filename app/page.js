@@ -394,6 +394,15 @@ function HomeScreen({ onStart, onUrgent, onBrowse }) {
         </div>
       </div>
 
+      {/* Banner Compre & Ganhe */}
+      <div style={{ padding: '24px 24px 0' }}>
+        <img
+          src="/WhatsApp%20Image%202026-05-21%20at%2016.13.04.jpeg"
+          alt="Compre acima de R$ 599 e ganhe um porta-sapato exclusivo"
+          style={{ width: '100%', borderRadius: 16, display: 'block' }}
+        />
+      </div>
+
       {/* Selos */}
       <div style={{
         padding: '28px 24px 0',
